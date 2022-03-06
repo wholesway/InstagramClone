@@ -5,6 +5,10 @@
       <map>
         <entry key="..\:/Users/josue/OneDrive/Documents/Programming_Projects/FIU_Programming/Mobile_Dev_Class/InstagramClone/app/src/main/res/layout/activity_login.xml" value="0.286231884057971" />
         <entry key="..\:/Users/josue/OneDrive/Documents/Programming_Projects/FIU_Programming/Mobile_Dev_Class/InstagramClone/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/josue/OneDrive/Documents/Programming_Projects/FIU_Programming/Mobile_Dev_Class/InstagramClone/app/src/main/res/layout/fragment_compose.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/josue/OneDrive/Documents/Programming_Projects/FIU_Programming/Mobile_Dev_Class/InstagramClone/app/src/main/res/layout/fragment_posts.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/josue/OneDrive/Documents/Programming_Projects/FIU_Programming/Mobile_Dev_Class/InstagramClone/app/src/main/res/layout/item_post.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/josue/OneDrive/Documents/Programming_Projects/FIU_Programming/Mobile_Dev_Class/InstagramClone/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.30052083333333335" />
         <entry key="..\:/Users/josue/OneDrive/Documents/Programming_Projects/FIU_Programming/Mobile_Dev_Class/InstagramClone/app/src/main/res/xml/fileprovider.xml" value="0.16666666666666666" />
       </map>
     </option>
